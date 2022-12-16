@@ -17,7 +17,7 @@ st.sidebar.header("REGISTRO DE LOS PROCESOS DE COMPRA, SEAN ADJUDICADO O NO ADJU
 st.sidebar.markdown("---")
 st.markdown("# APARTADO DE GRAFICAS Y TABLAS")
 
-servidor = 'https://evilafas-proyectofinaldiplomado-dashboarddashboard-29di0f.streamlit.app/'
+servidor = 'https://evilafas-proyectofinaldiplomado-dashboarddashboard-uj3rpe.streamlit.app/'
 
 @st.cache
 def cargar_datos():
