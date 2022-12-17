@@ -1,4 +1,4 @@
-pandas @ file:///C:/b/abs_cdcgk91igc/croots/recipe/pandas_1663772960432/work
+
 fastapi==0.88.0
 streamlit==1.15.2
 fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work
